@@ -11,3 +11,10 @@
 •При нажатии на кнопку должна открываться выбранная игра.
 
 •Смена игр должна происходить без перезагрузки страницы.
+
+# Роли:
+[Порфирьев А.:ПП,ВН](https://stankin.github.io/inet-2017/idm-17-01/Porfirev/index.html)
+
+[Зайцев А. :РП,СП,БА](https://stankin.github.io/inet-2017/idm-17-01/Zaytsev/index.html) 
+                     
+[Мещеряков Н. :НИ,АД,КО](https://stankin.github.io/inet-2017/idm-17-01/Meshcheryakov/index.html) 
